@@ -23,4 +23,7 @@ Filter: ON HSC Fc 10000 Hz Gain -2.0 dB Q 0.71
 7. Add a Control -> Include node and set it to the `HEADSET_NAME_FILTER_NAME.txt` file
 
 To switch between presets, turn turn both the preamp filter and include on and off for each corresponding headset.
+
+***
+
 You can also tune each EQ further by opening `HEADSET_NAME_FILTER_NAME.txt` file in EqualizerAPO. Just remember to only have preamp and include nodes in the main `config.txt` file.
