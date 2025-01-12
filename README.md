@@ -1,4 +1,4 @@
-# Munthy's EqualizerAPO_config
+# Munthy's EqualizerAPO Config
 
 ## How to add EQs for other headsets
 1. Find headset at [Oratory1990 headset list](https://old.reddit.com/r/oratory1990/wiki/index/list_of_presets)
