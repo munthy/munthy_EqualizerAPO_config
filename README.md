@@ -2,7 +2,7 @@
 
 ## How to add EQs for other headsets
 1. Find headset at [Oratory1990 headset list](https://old.reddit.com/r/oratory1990/wiki/index/list_of_presets)
-2. Open **harman target (over-ear)** pdf for headphones or **oratory1990 target** for IEMs (in-ear plugs)
+2. Open **harman target (over-ear)** pdf for headphones or **oratory1990 target** pdf for IEMs (in-ear plugs)
 3. Copy **Filter settings** found in the lower left of the pdf
 4. Tell AI chatbot of choice (I'm using ChatGPT) to format the copied settings in the following pattern:
 
