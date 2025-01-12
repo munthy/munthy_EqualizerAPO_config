@@ -1,0 +1,18 @@
+# Beyerdynamic DT-990 Pro
+# Preamp: -5.3 dB
+# Include: DT990_oratory.txt
+# Sennheiser HD650
+# Preamp: -9.3 dB
+# Include: HD650_oratory.txt
+# Audio Technica ATH-M50x (Massdrop Velours Earpads)
+# Preamp: -4.5 dB
+# Include: M50_velours_oratory.txt
+# Sennheiser HD598
+# Preamp: -5.3 dB
+# Include: HD598_oratory.txt
+# Sennheiser HD660S Standard
+# Preamp: -8.4 dB
+# Include: HD660S_oratory.txt
+# Sennheiser HD660S More Subbass
+Preamp: -14.4 dB
+Include: HD660S_moresubbass_oratory.txt
